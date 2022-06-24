@@ -1,6 +1,10 @@
+
+import { Event } from './pages/Event'
+
+
 function App() {
   return (
-    <h1 className="h1">Hello World</h1>
+    <Event />
   )
 }
 
