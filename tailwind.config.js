@@ -6,6 +6,10 @@ module.exports = {
   theme: {
     extend: {
 
+      backgroundImage: {
+        blur: 'url(/src/assets/bg-blur.png)'
+      },
+
       colors: {
         yellow: {
           300: '#FFF227',
