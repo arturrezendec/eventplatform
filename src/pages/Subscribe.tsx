@@ -45,8 +45,7 @@ export function Subscribe() {
                     </h1>
 
                     <p className="mt-4 text-gray-200 leading-relaxed">
-                    In just one week, you will master survivor techniques with the legend himself Bear Grylls. This is not a real app/course. I made this app in order to learn new technologies and bests practices of development. The classes were ministered by Diego Fernandes on the event Ignite Lab from rocketseat. "Submit any name and email in order to get on the event page."                    </p>
-
+                    In just one week, you will master survivor techniques with the legend himself Bear Grylls. Submit any name and email in order to get on the event page. Note: This is not a real app/course. 
                 </div>
                 <div className="p-8 bg-gray-700 border border-gray-500 rounded">
                     <strong className="text-2xl mb-6 block min-w-[300px]"> Subscribe free </strong>
