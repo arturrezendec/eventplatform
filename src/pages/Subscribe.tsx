@@ -45,8 +45,7 @@ export function Subscribe() {
                     </h1>
 
                     <p className="mt-4 text-gray-200 leading-relaxed">
-                        Em apenas uma semana você vai dominar na prática uma das tecnologias mais utilizadas e com alta dem anda para acessar as melhores oportunidades do mercado.
-                    </p>
+                    In just one week, you will master survivor techniques with the legend himself Bear Grylls. This is not a real app/course. I made this app in order to learn new technologies and bests practices of development. The classes were ministered by Diego Fernandes on the event Ignite Lab from rocketseat. "Submit any name and email in order to get on the event page."                    </p>
 
                 </div>
                 <div className="p-8 bg-gray-700 border border-gray-500 rounded">
