@@ -46,6 +46,7 @@ export function Subscribe() {
 
                     <p className="mt-4 text-gray-200 leading-relaxed">
                     In just one week, you will master survivor techniques with the legend himself Bear Grylls. Submit any name and email in order to get on the event page. Note: This is not a real app/course. 
+                    </p>
                 </div>
                 <div className="p-8 bg-gray-700 border border-gray-500 rounded">
                     <strong className="text-2xl mb-6 block min-w-[300px]"> Subscribe free </strong>
